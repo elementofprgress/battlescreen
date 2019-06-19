@@ -1,0 +1,19 @@
+ Volume in drive F is OLD_PrgFiles(Hybrid_2TB)
+ Volume Serial Number is 3011-E690
+
+ Directory of F:\Git\battlescreen\BattleScreenMinimaps
+
+05/23/2019  09:19 PM    <DIR>          .
+05/23/2019  09:19 PM    <DIR>          ..
+05/18/2019  12:08 PM    <DIR>          levels
+05/23/2019  09:19 PM                 0 listmyfolder.txt
+05/18/2019  12:08 PM    <DIR>          xp0
+05/18/2019  12:08 PM    <DIR>          xp1
+05/18/2019  12:08 PM    <DIR>          xp2
+05/18/2019  12:08 PM    <DIR>          xp3
+05/18/2019  12:08 PM    <DIR>          xp4
+05/18/2019  12:08 PM    <DIR>          xp5
+05/18/2019  12:08 PM    <DIR>          xp6
+05/18/2019  12:08 PM    <DIR>          xp7
+               1 File(s)              0 bytes
+              11 Dir(s)  216,887,582,720 bytes free
